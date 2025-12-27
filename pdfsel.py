@@ -25,7 +25,7 @@ from telethon.sessions import StringSession
 from telethon.errors import FloodWaitError
 
 # ============== AYARLAR ==============
-BOT_TOKEN = "XXXXXXXXXXXXXXXXXXXXXXXXXX"
+BOT_TOKEN = "8428131175:AAFsV7LYT7O_KRAcJ2jmKcjQTh1euSYCqR0"
 API_ID = "24302768"
 API_HASH = "7082b3b3331e7d12971ea9ef19e2d58b"
 
@@ -1121,3 +1121,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
